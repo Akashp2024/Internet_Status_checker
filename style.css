@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to right, rgb(250, 48, 250),rgb(106, 12, 194));
+}
+
+.container{
+    max-width: 500px;
+    margin: 200px auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 25px rgba(90, 90, 92, 0.3);
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
